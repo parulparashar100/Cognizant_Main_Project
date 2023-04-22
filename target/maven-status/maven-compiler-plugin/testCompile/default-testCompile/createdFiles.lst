@@ -1,0 +1,3 @@
+com\Cognizant\TestScenarios\CognizantAppsAndTools.class
+com\Cognizant\TestScenarios\LoginCognizant.class
+com\Cognizant\TestScenarios\CognizantStockPriceDetails.class

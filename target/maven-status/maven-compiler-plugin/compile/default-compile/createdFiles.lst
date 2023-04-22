@@ -1,0 +1,7 @@
+com\Cognizant\Pages\GoogleStockPage.class
+com\Cognizant\Utils\ExcelUtils.class
+com\Cognizant\Pages\CognizantHomePage.class
+com\Cognizant\Pages\CognizantLoginPage.class
+com\Cognizant\Pages\ScreenShotPage.class
+com\Cognizant\ExtentReport\ExtentReportFile.class
+com\Cognizant\Bases\TestBase.class
