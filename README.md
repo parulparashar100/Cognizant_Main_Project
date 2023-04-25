@@ -1,4 +1,8 @@
 # Cognizant Main Project
+
+ ## Module Name : Cognizant Stock Price and Apps & Tools (Window Icon)
+
+
 This Project is to find CTS stock price from Google and compare it from Be.Cognizant stock price and display the Apps and tool .
 
 ## Getting Started:
@@ -26,6 +30,15 @@ This project automates the following tasks:
 - Maven
 - Extent Report
 - TestNG
+
+
+##  Steps :
+
+- Provide Login Credetial in the Dailog box
+- Complete Authentication
+- Compare the Stock Price from google 
+- Get the Apps and tool available.
+
 
 ## Contributors:
 
